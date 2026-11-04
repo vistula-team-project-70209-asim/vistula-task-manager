@@ -1,0 +1,4 @@
+# Local development / temporary files
+.DS_Store
+Thumbs.db
+pr-contribution-template/
