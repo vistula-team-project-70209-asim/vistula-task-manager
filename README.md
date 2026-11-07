@@ -16,9 +16,9 @@ A lightweight Task Manager web application built with HTML, CSS, and JavaScript,
 
 ## Team Collaboration (Part B)
 
-- **Partner Name:** `PARTNER_NAME`
-- **Partner Student ID:** `PARTNER_STUDENT_ID`
-- **Partner Repository:** `https://github.com/PARTNER_USERNAME/vistula-task-manager`
+- **Partner Name:** `Mustafa Asim Bal`
+- **Partner Student ID:** `70209`
+- **Partner Repository:** `https://github.com/vistula-team-project-70209/vistula-task-manager`
 
 ### Pull Requests
 1. **Incoming Pull Request (Merged into this repository):**
